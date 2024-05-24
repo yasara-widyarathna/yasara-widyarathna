@@ -55,4 +55,4 @@ The following test cases are included in the test suite:
 
 ## Contact
 
-For any questions or issues, please contact yasara widyarathna at s20000550@ousl.lk
+For any questions or issues, please contact R.M.S.R.Rathnayaka at s92066994@ousl.lk
