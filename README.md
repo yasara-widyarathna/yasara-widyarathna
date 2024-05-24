@@ -22,8 +22,8 @@ The following test cases are included in the test suite:
 7. Navigate to latest promotions page
 8. Navigate to medical tourism page
 9. Navigate to our services page
-10.filling a form-positive test case
-11.filling a form-negative test case
+10. filling a form-positive test case
+11. filling a form-negative test case
 
 
 ## Instructions for Running the Tests
